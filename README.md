@@ -40,8 +40,7 @@ Key components of this project include:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/thyroid-cancer-classification.git
-   cd thyroid-cancer-classification
+   git clone https://github.com/nmmj1414/FINAL-PROJECT/blob/main/FINAL%20PROJECT.ipynb
 
    ▶Usage
 Open the notebook:
